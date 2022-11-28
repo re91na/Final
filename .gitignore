@@ -1,0 +1,28 @@
+.vscode/launch.json
+.vscode/tasks.json
+bin/Debug/net7.0/new final.deps.json
+bin/Debug/net7.0/new final.dll
+bin/Debug/net7.0/new final.exe
+bin/Debug/net7.0/new final.pdb
+bin/Debug/net7.0/new final.runtimeconfig.json
+obj/new final.csproj.nuget.dgspec.json
+obj/new final.csproj.nuget.g.props
+obj/new final.csproj.nuget.g.targets
+obj/project.assets.json
+obj/project.nuget.cache
+obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+obj/Debug/net7.0/apphost.exe
+obj/Debug/net7.0/new final.AssemblyInfo.cs
+obj/Debug/net7.0/new final.AssemblyInfoInputs.cache
+obj/Debug/net7.0/new final.assets.cache
+obj/Debug/net7.0/new final.csproj.AssemblyReference.cache
+obj/Debug/net7.0/new final.csproj.CoreCompileInputs.cache
+obj/Debug/net7.0/new final.csproj.FileListAbsolute.txt
+obj/Debug/net7.0/new final.dll
+obj/Debug/net7.0/new final.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net7.0/new final.genruntimeconfig.cache
+obj/Debug/net7.0/new final.GlobalUsings.g.cs
+obj/Debug/net7.0/new final.pdb
+obj/Debug/net7.0/ref/new final.dll
+obj/Debug/net7.0/refint/new final.dll
+new final.csproj
